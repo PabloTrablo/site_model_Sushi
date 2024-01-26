@@ -1,0 +1,19 @@
+header {
+  background-color: aqua;
+}
+
+footer {
+  font-size: 20px;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 20px;
+  color: black;
+}
+
+h2 {
+  color: red;
+}
